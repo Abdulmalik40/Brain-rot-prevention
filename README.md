@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mk10), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where Users Linger](./practice/spark/where-users-linger) | Spark | Easy | 2026-10-29 |
 | [Where Users Linger](./practice/sql/where-users-linger) | SQL | Easy | 2026-10-29 |
 | [Cheapest Cost Per Region](./practice/spark/cheapest-cost-per-region) | Spark | Easy | 2026-10-29 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-10-29 |

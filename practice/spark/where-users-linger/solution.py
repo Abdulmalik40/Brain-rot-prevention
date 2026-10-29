@@ -1,0 +1,10 @@
+joined_df = user_sessions.join(devices,"device_id","inner")
+agg_df = joined_df.filter(col("device_type")=="mobile")
+  .groupBy("os_name").agg({"session_duration_sec" : "avg"})
+  .withColumnRenamed("avg(session_duration_sec)","avg_duration")
+  .orderBy(col("avg_duration").desc())
+  
+window_spec = Window.orderBy(col("avg_duration").desc())
+agg_df.withColumn("flag",rank().over(window_spec))
+      .filter(col("flag")== 1)
+      .select("os_name","avg_duration")
