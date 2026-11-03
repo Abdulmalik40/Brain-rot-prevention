@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mk10), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Health Checks per Service](./practice/spark/health-checks-per-service) | Spark | Easy | 2026-11-03 |
 | [Unique Searchers](./practice/spark/unique-searchers) | Spark | Easy | 2026-11-02 |
 | [All Infra Regions](./practice/spark/all-infra-regions) | Spark | Easy | 2026-10-31 |
 | [Where Users Linger](./practice/spark/where-users-linger) | Spark | Easy | 2026-10-29 |
