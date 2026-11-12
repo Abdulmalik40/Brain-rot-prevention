@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mk10), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active Users With April Transactions](./practice/spark/active-users-with-april-transactions) | Spark | Easy | 2026-11-12 |
 | [The Longest Take](./practice/spark/the-longest-take) | Spark | Easy | 2026-11-04 |
 | [Health Checks per Service](./practice/spark/health-checks-per-service) | Spark | Easy | 2026-11-03 |
 | [Unique Searchers](./practice/spark/unique-searchers) | Spark | Easy | 2026-11-02 |
