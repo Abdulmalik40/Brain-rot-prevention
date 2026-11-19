@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mk10), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Reviewer Performance Metrics](./practice/spark/reviewer-performance-metrics) | Spark | Medium | 2026-11-19 |
 | [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Medium | 2026-11-18 |
 | [Daily Session and User Counts](./practice/spark/daily-session-and-user-counts) | Spark | Medium | 2026-11-18 |
 | [Past the Threshold](./practice/spark/past-the-threshold) | Spark | Medium | 2026-11-17 |
