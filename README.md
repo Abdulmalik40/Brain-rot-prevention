@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mk10), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Users Per Device Type](./practice/spark/users-per-device-type) | Spark | Easy | 2026-11-19 |
 | [Distinct Product Categories](./practice/spark/distinct-product-categories) | Spark | Easy | 2026-11-19 |
 | [Days with More Edited Than Unedited Messages](./practice/spark/days-with-more-edited-than-unedited-messages) | Spark | Medium | 2026-11-19 |
 | [Reviewer Performance Metrics](./practice/spark/reviewer-performance-metrics) | Spark | Medium | 2026-11-19 |
