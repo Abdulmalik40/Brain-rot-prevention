@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mk10), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Every Voice That Answered](./practice/spark/every-voice-that-answered) | Spark | Medium | 2026-11-21 |
 | [Every Voice That Answered](./practice/sql/every-voice-that-answered) | SQL | Medium | 2026-11-21 |
 | [Full Funnel](./practice/spark/full-funnel) | Spark | Hard | 2026-11-20 |
 | [Daily Cross-Platform Users](./practice/spark/daily-cross-platform-users) | Spark | Easy | 2026-11-20 |
