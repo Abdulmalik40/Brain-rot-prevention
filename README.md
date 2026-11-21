@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mk10), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Content Type Distribution](./practice/sql/content-type-distribution) | SQL | Easy | 2026-11-21 |
 | [Content Type Distribution](./practice/spark/content-type-distribution) | Spark | Easy | 2026-11-21 |
 | [Every Voice That Answered](./practice/spark/every-voice-that-answered) | Spark | Medium | 2026-11-21 |
 | [Every Voice That Answered](./practice/sql/every-voice-that-answered) | SQL | Medium | 2026-11-21 |
