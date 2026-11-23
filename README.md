@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mk10), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Feature Flag Adoption](./practice/spark/feature-flag-adoption) | Spark | Medium | 2026-11-23 |
 | [The Legacy Hunt](./practice/spark/the-legacy-hunt) | Spark | Easy | 2026-11-22 |
 | [The Legacy Hunt](./practice/sql/the-legacy-hunt) | SQL | Easy | 2026-11-22 |
 | [The Loudest Signals](./practice/spark/the-loudest-signals) | Spark | Easy | 2026-11-22 |
