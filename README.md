@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mk10), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Users With Purchase Events](./practice/sql/users-with-purchase-events) | SQL | Easy | 2026-11-24 |
 | [Weekly Build Status Report](./practice/spark/weekly-build-status-report) | Spark | Hard | 2026-11-23 |
 | [Feature Flag Adoption](./practice/spark/feature-flag-adoption) | Spark | Medium | 2026-11-23 |
 | [The Legacy Hunt](./practice/spark/the-legacy-hunt) | Spark | Easy | 2026-11-22 |
