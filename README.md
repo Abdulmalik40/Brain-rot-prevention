@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mk10), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Second Highest Cloud Cost](./practice/spark/second-highest-cloud-cost) | Spark | Medium | 2026-11-26 |
 | [Busy Authors](./practice/spark/busy-authors) | Spark | Medium | 2026-11-25 |
 | [The Merit Circle](./practice/spark/the-merit-circle) | Spark | Medium | 2026-11-24 |
 | [Users With Purchase Events](./practice/sql/users-with-purchase-events) | SQL | Easy | 2026-11-24 |
