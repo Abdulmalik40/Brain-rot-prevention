@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mk10), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Upper Rungs](./practice/sql/the-upper-rungs) | SQL | Easy | 2026-11-28 |
 | [Second Highest Cloud Cost](./practice/spark/second-highest-cloud-cost) | Spark | Medium | 2026-11-26 |
 | [Busy Authors](./practice/spark/busy-authors) | Spark | Medium | 2026-11-25 |
 | [The Merit Circle](./practice/spark/the-merit-circle) | Spark | Medium | 2026-11-24 |
